@@ -4,5 +4,6 @@
 I am Akshit Kumar and I want to grow more and more.  
 
 |Name|Rank|
+|----|----|
 |Akshit Kumar|1st|
 |Pragati Soni|1st|
